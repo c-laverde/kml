@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Municipios Colombia</name>
+	<open>1</open>
+	<description>Exported from col_adm2 on 17/07/2007</description>
+	<Style id="greenLine">
+	<LineStyle>
+		<color>ff3dc996</color>
+		<width>1</width>
+	</LineStyle>
+  	<PolyStyle>  
+		<color>1414B496</color>
+		<outline>1</outline>
+	</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>TURBO (Is.)</name>
+		<styleUrl>#greenLine</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+-76.9411239624023,8.205681800842291,0 -76.938606262207,8.208675384521481,0 -76.952033996582,8.226992607116699,0 -76.95269775390631,8.219413757324221,0 -76.95037078857421,8.21368312835693,0 -76.94435119628911,8.206357955932621,0 -76.9411239624023,8.205681800842291,0 </coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
+
+
