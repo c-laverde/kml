@@ -27,7 +27,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>SAN PEDRO</name>
+		<name>SAN PEDRO 1</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -39,7 +39,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>SAN PEDRO</name>
+		<name>SAN PEDRO 2</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -51,7 +51,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>SAN PEDRO</name>
+		<name>SAN PEDRO 3</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -135,7 +135,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>GUADALUPE</name>
+		<name>GUADALUPE 1</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -147,7 +147,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>GUADALUPE</name>
+		<name>GUADALUPE 2</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -159,7 +159,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>GUADALUPE</name>
+		<name>GUADALUPE 3</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -207,7 +207,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>TOLEDO</name>
+		<name>TOLEDO 1</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -219,7 +219,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>TOLEDO</name>
+		<name>TOLEDO 2</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -231,7 +231,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>BRICE?O</name>
+		<name>BRICE?O 1</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -243,7 +243,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>BRICENO</name>
+		<name>BRICENO 2</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -255,7 +255,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>SAN ANDRES</name>
+		<name>SAN ANDRES 1</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -267,7 +267,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>SAN ANDRES</name>
+		<name>SAN ANDRES 2</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -279,7 +279,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>SAN ANDRES</name>
+		<name>SAN ANDRES 3</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
