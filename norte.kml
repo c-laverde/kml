@@ -27,7 +27,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>SAN PEDRO 1</name>
+		<name>SAN PEDRO uno</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -39,7 +39,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>SAN PEDRO 2</name>
+		<name>SAN PEDRO dos</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
@@ -51,7 +51,7 @@
 		</Polygon>
 	</Placemark>
 	<Placemark>
-		<name>SAN PEDRO 3</name>
+		<name>SAN PEDRO tres</name>
 		<styleUrl>#greenLine</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
