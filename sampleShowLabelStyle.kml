@@ -7,6 +7,10 @@
          <colorMode>random</colorMode>
          <scale>1.5</scale>
       </LabelStyle>
+      <LineStyle>
+	 <color>ff3dc996</color>
+	 <width>1</width>
+      </LineStyle>
    </Style>
    <styleUrl>#randomLabelColor</styleUrl>
    <Placemark id="caracoli">
